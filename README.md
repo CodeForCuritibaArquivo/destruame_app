@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeForCuritiba/destruame_app.png?label=ready&title=Ready)](https://waffle.io/CodeForCuritiba/destruame_app)
 # destruame_app
 Ionic app for Destrua.me project
 
