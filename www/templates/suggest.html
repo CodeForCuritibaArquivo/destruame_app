@@ -1,0 +1,13 @@
+<ion-view view-title="Sugerir Desafio">
+    <ion-content>
+        <div class="list list-inset">
+            <label class="item item-input">
+                <input ng-model="suggest.name" type="text" placeholder="Nome do desafio" />
+            </label>
+            <label class="item item-input">
+                <textarea ng-model="suggest.description" placeholder="Descrição" id="" cols="30" rows="10"></textarea>
+            </label>
+            <button class="button button-full button-balanced" ng-click="save()">Sugerir!</button>
+        </div>
+    </ion-content>
+</ion-view>
