@@ -9,3 +9,5 @@ Ionic app for Destrua.me project
  - Danielli C Wal
  - Mayara C Wal
  - Thierry Delbart
+ - Neri Junior
+ - Gustavo Guerchon
