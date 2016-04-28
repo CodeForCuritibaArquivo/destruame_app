@@ -6,7 +6,27 @@ Ionic app for Destrua.me project
 
 # Instalação
 
-TODO
+```
+npm install -g cordova ionic
+git clone https://github.com/CodeForCuritiba/destruame_app
+ionic serve
+```
+
+## Para Android
+
+```
+ionic add plateform android
+ionic build android
+ionic emulate android
+```
+
+## Para IOS
+
+```
+ionic add plateform ios
+ionic build ios
+ionic emulate ios
+```
 
 # Colaboradores
 
