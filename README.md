@@ -4,7 +4,11 @@
 # destruame_app
 Ionic app for Destrua.me project
 
-## Colaboradores
+# Instalação
+
+TODO
+
+# Colaboradores
 
  - Victor Barroso
  - Thalita Cantos
