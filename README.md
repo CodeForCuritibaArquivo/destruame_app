@@ -15,7 +15,7 @@ ionic serve
 ## Para Android
 
 ```
-ionic add plateform android
+ionic platform add android
 ionic build android
 ionic emulate android
 ```
@@ -23,7 +23,7 @@ ionic emulate android
 ## Para IOS
 
 ```
-ionic add plateform ios
+ionic platform add ios
 ionic build ios
 ionic emulate ios
 ```
